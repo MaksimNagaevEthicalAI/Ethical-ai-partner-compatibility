@@ -54,6 +54,12 @@ The goal is not to automate relationship decisions, but to help individuals bett
 
 ---
 
+## Compatibility Model Diagram
+
+![AI Compatibility Model](compatibility-model.png)
+Conceptual architecture illustrating how structured psychological
+assessment and adaptive AI dialogue could support compatibility insight.
+
 ## Key Principles
 
 - AI should support human autonomy rather than replace it
