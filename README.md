@@ -95,3 +95,20 @@ Medium articles:
 ## Discussion
 
 Thoughtful discussion is welcome, particularly from researchers, psychologists, and developers interested in ethical AI for human relationships.
+
+## Concept Paper
+
+Full conceptual framework available here:
+
+Notion:
+https://button-alyssum-638.notion.site/Ethical-AI-for-Long-Term-Partner-Compatibility-31745b82b9708019988ecb95b538ed3d?pvs=143
+
+## Author
+
+Maksim Nagaev
+
+LinkedIn:
+(https://www.linkedin.com/in/maksim-nagaev-9a03013a8/)
+
+Medium:
+(https://medium.com/@EthicalAIforLongTermPartnerCom/dating-apps-use-ai-but-still-fail-at-matching-people-a32868fd7e35)
