@@ -141,8 +141,6 @@ Maksim Nagaev
 LinkedIn:  
 https://www.linkedin.com/in/maksim-nagaev-9a03013a8/
 
-Medium:  
-https://medium.com/@EthicalAIforLongTermPartnerCom/dating-apps-use-ai-but-still-fail-at-matching-people-a32868fd7e35
 
 ---
 
