@@ -4,6 +4,10 @@ Author: Maksim Nagaev
 
 Conceptual framework exploring how artificial intelligence can support long-term psychological compatibility between individuals — rather than optimizing short-term attraction or engagement.
 
+## What this is
+
+An AI system designed to help people find long-term compatible partners through deep psychological alignment — not attraction.
+
 ---
 
 ## Core Idea
