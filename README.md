@@ -113,8 +113,7 @@ No product or implementation currently exists.
 👉 Start here (simple overview):
 https://www.notion.so/ALMA-AI-32a45b82b970803984cfd20456a8f252
 
-👉 Full conceptual framework:
-Notion:  
+👉 Full conceptual framework: 
 https://button-alyssum-638.notion.site/Ethical-AI-for-Long-Term-Partner-Compatibility-31745b82b9708019988ecb95b538ed3d?pvs=143
 
 ---
