@@ -1,12 +1,14 @@
 # ALMA AI
 
+Know before you attach.
+
 AI for long-term relationship compatibility
 
-Know before you attach.
+Stop matching. Start understanding.
 
 Author: Maksim Nagaev
 
-ALMA AI is a conceptual AI system designed to help people understand long-term psychological compatibility before emotional attachment forms.
+ALMA AI is an AI system designed to help people understand long-term psychological compatibility before emotional attachment forms.
 
 Instead of optimizing attraction or engagement, the system focuses on deeper alignment — including values, emotional patterns, attachment tendencies, and long-term lifestyle structure.
 
