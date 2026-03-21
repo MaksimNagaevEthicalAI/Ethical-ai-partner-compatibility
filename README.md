@@ -1,4 +1,4 @@
-# Aligna
+# Religna
 
 AI for long-term relationship compatibility
 
@@ -6,14 +6,14 @@ Know before you attach.
 
 Author: Maksim Nagaev
 
-Aligna is a conceptual AI system designed to help people understand long-term psychological compatibility before emotional attachment forms.
+Religna is a conceptual AI system designed to help people understand long-term psychological compatibility before emotional attachment forms.
 
-Instead of optimizing attraction or engagement, the system focuses on deeper alignment — including values, emotional patterns, attachment tendencies, and life structure and long-term lifestyle patterns.
+Instead of optimizing attraction or engagement, the system focuses on deeper alignment — including values, emotional patterns, attachment tendencies, and long-term lifestyle structure.
 
 The goal is not to decide for users, but to reveal hidden compatibility dynamics, potential tensions, and long-term risks.
 
 
-The system supports awareness — not decision-making.
+**The system supports awareness — not decision-making.**
 ---
 
 ## Core Idea
