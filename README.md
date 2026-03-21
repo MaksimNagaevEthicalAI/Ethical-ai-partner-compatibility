@@ -129,8 +129,8 @@ https://button-alyssum-638.notion.site/Ethical-AI-for-Long-Term-Partner-Compatib
 
 Medium articles:
 
-- Ethical AI for Long-Term Partner Compatibility  
-- Dating Apps Use AI — But Still Fail at Matching People  
+- [Ethical AI for Long-Term Partner Compatibility](https://medium.com/@EthicalAIforLongTermPartnerCom/...)
+- [Dating Apps Use AI — But Still Fail at Matching People](https://medium.com/@EthicalAIforLongTermPartnerCom/dating-apps-use-ai-but-still-fail-at-matching-people-a32868fd7e35)
 
 ---
 
