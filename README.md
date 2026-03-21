@@ -1,13 +1,18 @@
-# Ethical AI for Long-Term Partner Compatibility
+# Aligna
+
+AI for long-term relationship compatibility
+
+Know before you attach.
 
 Author: Maksim Nagaev
 
-Conceptual framework exploring how artificial intelligence can support long-term psychological compatibility between individuals — rather than optimizing short-term attraction or engagement.
+Aligna is a conceptual AI system designed to help people understand long-term psychological compatibility before emotional attachment forms.
 
-## What this is
+Instead of optimizing attraction or engagement, the system focuses on deeper alignment — including values, emotional patterns, attachment tendencies, and life structure.
 
-An AI system designed to help people find long-term compatible partners through deep psychological alignment — not attraction.
+The goal is not to decide for users, but to reveal hidden compatibility dynamics, potential tensions, and long-term risks.
 
+The system supports awareness — not decision-making.
 ---
 
 ## Core Idea
