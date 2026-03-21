@@ -139,3 +139,7 @@ https://medium.com/@EthicalAIforLongTermPartnerCom/dating-apps-use-ai-but-still-
 ---
 
 Open to discussion and collaboration.
+
+---
+
+#Religna
